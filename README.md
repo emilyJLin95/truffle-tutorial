@@ -1,1 +1,1 @@
-# truffle-tutorial
+This is just my personal sandbox playing around with smart contracts based on the [truffle pet shop tutorial](https://github.com/emilyJLin95/truffle-tutorial.git).
